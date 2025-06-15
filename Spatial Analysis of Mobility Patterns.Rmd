@@ -10,7 +10,7 @@ editor_options:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE, fig.height=6, fig.width=9)
-Sys.setenv(MAPBOX_TOKEN = "pk.eyJ1IjoicHJpbmNlb2IiLCJhIjoiY205eDVvY3JqMHhkNjJrc2FpaTY5cHp0YyJ9.dr1pXDjpG2p_yZ4R5OzYGA")
+Sys.setenv(MAPBOX_TOKEN = "YOUR MAPBOX KEY")
 ```
 
 ```{r}
